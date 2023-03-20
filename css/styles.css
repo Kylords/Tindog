@@ -1,0 +1,170 @@
+body {
+    font-family: "Montserrat";
+}
+
+.heading {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    
+}
+
+#title {
+    /* position: absolute;  */
+    background-color: #ff4c68;
+    color: white;
+    /* z-index: -1;  */
+    margin-bottom: -230px;
+    
+}
+
+.con-1 {
+    padding: 3% 15%;
+}
+
+
+
+
+
+/* NAVBAR */
+
+.navbar {
+    padding: 0 0 4.5rem 0;
+}
+
+.logo {
+    padding: 0;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-weight: light;
+    font-size: 1.2rem;
+}
+
+
+/* DOWNLOAD BUTTONS */
+
+.download-btn {
+    margin: 5% 3% 5% 0;
+}
+
+/* TITLE IMAGE */
+
+.dog-pic {
+    
+    transform: rotate(25deg);
+    width: 60%;
+    /* margin-bottom: -200px; */
+    position: relative;
+    left: 20%;
+    
+}
+
+
+/* FEATURES */
+
+#features {
+    background-color: white;
+    text-align: center;
+    padding: 7% 15%;
+    position: relative;
+    
+    z-index: 1;
+    
+    
+}
+
+.icon {
+    color: rgb(244, 161, 54);
+    
+}
+
+.icon:hover {
+    color: #ef8172;
+}
+
+.feature-title {
+    margin-top: 5%;
+    font-weight: bold;
+    size: 1.5rem;
+}
+
+.feature-description {
+    color: #8f8f8f;
+    width: 50%;
+    margin: auto;
+}
+
+
+/* TESTIMONIALS */
+
+#testimonials {
+    
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+.testimonial-word {
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.testimonial-img {
+    border-radius: 100%;
+    width: 10%;
+    margin: 20px;
+}
+
+.carousel-inner {
+    padding: 7% 15%;
+}
+
+
+/* PRESS */
+
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-img {
+    width: 15%;
+    margin: 20px 20px 50px 20px;
+}
+
+
+/* PRICING */
+
+#pricing {
+    text-align: center;
+    padding: 100px;
+}
+
+.card {
+    
+}
+
+.price-btn {
+    width: 50%;
+}
+
+.pricing-card {
+    padding: 3% 2%;
+}
